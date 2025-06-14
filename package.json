@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.10",
     "lite-server": "^2.6.1",
     "tailwindcss": "^4.1.10",
     "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.10",
+    "vite": "^6.3.5"
   }
 }
